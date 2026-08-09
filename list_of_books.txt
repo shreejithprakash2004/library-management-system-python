@@ -1,0 +1,6 @@
+Python Crash Course
+Clean Code
+Automate the Boring Stuff with Python
+The Pragmatic Programmer
+Head First Python
+WEB Development Tutorial
